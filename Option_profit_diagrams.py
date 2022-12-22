@@ -84,7 +84,7 @@ class Profit (object):
             if y_ > 0 and previous < 0 :
                 save_index = index
                 break
-        previous = y_
+            previous = y_
         
         breakeven_price = x[save_index]
         max_loss = min(y)
