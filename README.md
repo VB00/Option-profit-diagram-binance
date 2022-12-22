@@ -7,7 +7,7 @@ and other parameters provided by binance exchange.
 A short instruction on how to use the script:
 
 
-![Untitled video - Made with Clipchamp (1)](https://github.com/VB00/Option-profit-diagram-binance/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif)
+![clip](https://github.com/VB00/Option-profit-diagram-binance/blob/main/clip.mp4)
 
 
 Here is short explanation of the diagram:
