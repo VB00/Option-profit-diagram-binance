@@ -132,7 +132,7 @@ def get_properties(joined, option_name):
     parse_crypto=option_name[0:3]
     K = int(line.iloc[0,2])
     T = (line.iloc[0,3] - pd.Timestamp.now(tz='UTC')) / np.timedelta64(1, 'D')
-    cost_per_contract = float(line.iloc[0,8])
+    cost_per_contract = float(line.iloc[0,5])
     num_of_contracts = 1
     is_call = line.iloc[0,1] == "C"
     return (K,T, cost_per_contract,num_of_contracts,is_call,parse_crypto, option_name)
