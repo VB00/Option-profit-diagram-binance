@@ -5,4 +5,4 @@ Moreover, one can download the whole list of available options with calculated g
 and other parameters provided by binance exchange.
 
 Short instruction on how to use the script:
-![Alt Text](https://clipchamp.com/watch/x3ju1wSb6Z4)
+![](Untitled video - Made with Clipchamp (1).gif)
